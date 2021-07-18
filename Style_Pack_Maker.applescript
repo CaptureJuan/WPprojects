@@ -1,4 +1,4 @@
-```AppleScript
+
 
 use AppleScript version "2.4" -- Yosemite (10.10) or later
 use scripting additions
@@ -29,5 +29,3 @@ on run
 	set inputFolder to choose folder with prompt "Select a folder (of Styles) to turn into a Style pack"
 	my makeCOStylePackFromFolder(inputFolder)
 end run
-
-```
