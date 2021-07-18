@@ -4,7 +4,7 @@ A collection of scripting projects from the blog
 
 ## Style Pack Maker
 
-https://github.com/CaptureJuan/WPprojects/blob/7614b52be2b503652c13f7b8112fa4dc993a0131/Style_Pack_Maker.applescript
+https://github.com/CaptureJuan/WPprojects/blob/cbae15dc5e1bd3f31269c2e1609e12821bf006d9/Scripts/Style_Pack_Maker.applescript
 
 ### What is it?
 This app is designed to make Style Packs from a supplied folder of styles.
